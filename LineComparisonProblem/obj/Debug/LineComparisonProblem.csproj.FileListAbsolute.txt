@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\LineComparisonProgramsAss\LineComparisonProblem\bin\Debug\LineComparisonProblem.exe.config
+C:\Users\hp\source\repos\LineComparisonProgramsAss\LineComparisonProblem\bin\Debug\LineComparisonProblem.exe
+C:\Users\hp\source\repos\LineComparisonProgramsAss\LineComparisonProblem\bin\Debug\LineComparisonProblem.pdb
+C:\Users\hp\source\repos\LineComparisonProgramsAss\LineComparisonProblem\obj\Debug\LineComparisonProblem.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LineComparisonProgramsAss\LineComparisonProblem\obj\Debug\LineComparisonProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\LineComparisonProgramsAss\LineComparisonProblem\obj\Debug\LineComparisonProblem.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LineComparisonProgramsAss\LineComparisonProblem\obj\Debug\LineComparisonProblem.exe
+C:\Users\hp\source\repos\LineComparisonProgramsAss\LineComparisonProblem\obj\Debug\LineComparisonProblem.pdb
